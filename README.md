@@ -5,10 +5,12 @@ Una adaptación del printbot Icebot para IceZum Alhambra
 
 ### Front Part
 Añadidos dos cilindros para sujetar la IceZum Alhambra
+Añadido soporte para estabilizar el printbot
 ![Front Part](https://github.com/lobotic/icelobot/blob/master/Icelobot/icelobot_f.png)
 
 ### Back Part
-Añadidos dos cilindros para sujetar la IceZum Alhambra y un soporte para sujetar la batería
+Añadidos dos cilindros para sujetar la IceZum Alhambra y un soporte para sujetar la batería.
+Añadido soporte para estabilizar el printbot
 ![Front Part](https://github.com/lobotic/icelobot/blob/master/Icelobot/icelobot_b.png)
 
 ### Vídeo
