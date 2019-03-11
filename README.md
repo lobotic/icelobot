@@ -17,7 +17,7 @@ Añadido soporte para estabilizar el printbot
 ### Vídeo
 [![Vídeo](https://github.com/lobotic/icelobot/blob/master/Icelobot/VideoV0.png)](https://youtu.be/T3jt00a9YEw "Vídeo V.0")
 
-## V.0
+## V.2
 
 ### Front Part
 Añadidos soportes para elevar la IceZum Alhambra y poder usarla con shields como EchidnaShield
