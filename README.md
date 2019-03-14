@@ -3,7 +3,6 @@ Una adaptación del printbot Icebot para IceZum Alhambra
 
 ## STL
 | V.0| V.2|
-| ----- | ---- |
 | [Chasis b](https://github.com/lobotic/icelobot/blob/master/Icelobot/icelobot_b.stl) | [Chasis b](https://github.com/lobotic/icelobot/blob/master/Icelobot_V2/icelobot_b_V2.stl) |
 | ----- | ---- |
 | [Chasis f ](https://github.com/lobotic/icelobot/blob/master/Icelobot/icelobot_f.stl) | [Chasis f](https://github.com/lobotic/icelobot/blob/master/Icelobot_V2/icelobot_f_V2.stl) |
